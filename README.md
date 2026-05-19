@@ -3,8 +3,8 @@
 A small Android app for practicing background work with `Thread`, `Handler`, and `AsyncTask` while keeping the interface responsive.
 
 <p>
-  <img width="300" alt="Thread Lab ready screen" src="docs/screenshots/ready.png" />
-  <img width="300" alt="Thread Lab AsyncTask result screen" src="docs/screenshots/async-result.png" />
+  <img width="300" alt="async-result" src="https://github.com/user-attachments/assets/a6b13b14-c5f6-4fc9-8aa2-50fbb4a5ae57" />
+  <img width="300" alt="ready" src="https://github.com/user-attachments/assets/dd821a73-45b4-4c15-9637-3b465aeed3d4" />
 </p>
 
 ## Overview
